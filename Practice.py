@@ -33,3 +33,7 @@ with open("practice.txt", "w") as f:
 # Q2. Write a function that replaces all occurrences of
 #     "Java" with "Python" in the above file.
 # ---------------------------------------------------------
+
+def replace_java():
+    with open("practice.txt", "r") as f:
+        data = f.read()
