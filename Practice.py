@@ -37,3 +37,5 @@ with open("practice.txt", "w") as f:
 def replace_java():
     with open("practice.txt", "r") as f:
         data = f.read()
+
+    new_data = data.replace("Java", "Python")
