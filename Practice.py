@@ -80,3 +80,6 @@ def check_line(word):
                 return line_no
             line_no += 1
     return -1
+
+print("Q4:", check_line("learning"))
+print("Q4:", check_line("hello"))
