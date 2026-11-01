@@ -54,7 +54,7 @@ with open("practice.txt", "r") as f:
 # Q3. Search if the word "learning" exists in the file or not.
 # ---------------------------------------------------------
 
-word = "Java"
+word = "Python"
 
 with open("practice.txt", "r") as f:
     data = f.read()
