@@ -42,3 +42,5 @@ def replace_java():
 
     with open("practice.txt", "w") as f:
         f.write(new_data)
+
+replace_java()
