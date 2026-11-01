@@ -157,3 +157,7 @@ for num in nums:
     total += int(num)
 
 average = round(total / len(nums), 2)
+
+with open("result.txt", "w") as f:
+    f.write("Sum: " + str(total) + "\n")
+    f.write("Average: " + str(average))
