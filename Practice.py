@@ -165,3 +165,5 @@ with open("result.txt", "w") as f:
 with open("result.txt", "r") as f:
     print("Q8: result.txt contains:")
     print(f.read())
+
+#-----------------------------------------------------------------------------------------
