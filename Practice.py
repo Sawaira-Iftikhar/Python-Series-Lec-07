@@ -150,3 +150,8 @@ with open("copy.txt", "r") as f:
 
 with open("data/numbers.txt", "r") as f:
     data = f.read()
+
+nums = data.split(",")
+total = 0
+for num in nums:
+    total += int(num)
