@@ -26,3 +26,5 @@ with open("practice.txt", "w") as f:
     f.write("using Java.\nI like programming in Java.")
 
     print("Q1: practice.txt created")
+
+#-------------------------------------------------------------------------------------------
