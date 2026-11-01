@@ -9,7 +9,7 @@
   Counting Lines, Words and Characters
   Copying a File
   Sum and Average Saved to a File
-Total Questions: 0
+Total Questions: 08
 ============================================
 """
 
