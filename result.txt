@@ -1,0 +1,2 @@
+Sum: 82
+Average: 6.83
