@@ -121,3 +121,5 @@ with open("data/sample.txt", "r") as f:
         lines += 1
         words += len(line.split())
         chars += len(line)
+
+print("Q6: Lines:", lines, "| Words:", words, "| Characters:", chars)
