@@ -96,3 +96,6 @@ count = 0
 
 with open("data/numbers.txt", "r") as f:
     data = f.read()
+
+nums = data.split(",")              # list of strings
+for num in nums:
