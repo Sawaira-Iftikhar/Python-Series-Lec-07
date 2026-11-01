@@ -13,6 +13,7 @@ Total Questions: 08
 ============================================
 """
 
+
 # ---------------------------------------------------------
 # Q1. Create a new file "practice.txt" and add the following data:
 #     Hi everyone
