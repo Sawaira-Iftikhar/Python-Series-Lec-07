@@ -155,3 +155,5 @@ nums = data.split(",")
 total = 0
 for num in nums:
     total += int(num)
+
+average = round(total / len(nums), 2)
