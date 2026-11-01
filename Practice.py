@@ -111,3 +111,7 @@ print("Q5: Even numbers:", count)
 # Q6. Count the number of lines, words and characters
 #     in data/sample.txt
 # ---------------------------------------------------------
+
+lines = 0
+words = 0
+chars = 0
