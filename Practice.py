@@ -28,3 +28,8 @@ with open("practice.txt", "w") as f:
     print("Q1: practice.txt created")
 
 #-------------------------------------------------------------------------------------------
+
+# ---------------------------------------------------------
+# Q2. Write a function that replaces all occurrences of
+#     "Java" with "Python" in the above file.
+# ---------------------------------------------------------
