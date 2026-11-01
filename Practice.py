@@ -99,3 +99,5 @@ with open("data/numbers.txt", "r") as f:
 
 nums = data.split(",")              # list of strings
 for num in nums:
+      if int(num) % 2 == 0:
+        count += 1
