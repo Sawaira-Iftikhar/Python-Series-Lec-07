@@ -44,3 +44,6 @@ def replace_java():
         f.write(new_data)
 
 replace_java()
+
+with open("practice.txt", "r") as f:
+    print("Q2:", f.read())
