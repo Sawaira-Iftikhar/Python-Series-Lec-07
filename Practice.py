@@ -123,3 +123,5 @@ with open("data/sample.txt", "r") as f:
         chars += len(line)
 
 print("Q6: Lines:", lines, "| Words:", words, "| Characters:", chars)
+
+#-----------------------------------------------------------------------------------------
