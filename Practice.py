@@ -85,3 +85,9 @@ print("Q4:", check_line("learning"))
 print("Q4:", check_line("hello"))
 
 #-----------------------------------------------------------------------------------------
+
+# ---------------------------------------------------------
+# Q5. From a file containing numbers separated by commas,
+#     print the count of even numbers.
+#     data/numbers.txt contains: 1,2,3,4,5,6,7,8,9,10,12,15
+# ---------------------------------------------------------
