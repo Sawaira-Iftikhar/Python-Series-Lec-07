@@ -91,3 +91,5 @@ print("Q4:", check_line("hello"))
 #     print the count of even numbers.
 #     data/numbers.txt contains: 1,2,3,4,5,6,7,8,9,10,12,15
 # ---------------------------------------------------------
+
+count = 0
