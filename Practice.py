@@ -147,3 +147,6 @@ with open("copy.txt", "r") as f:
 # Q8. Read data/numbers.txt, find the sum and average of the
 #     numbers, and save the result in result.txt
 # ---------------------------------------------------------
+
+with open("data/numbers.txt", "r") as f:
+    data = f.read()
