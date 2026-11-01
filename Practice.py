@@ -71,3 +71,5 @@ else:
 # Q4. Write a function to find in which line of the file the
 #     word "learning" occurs first. Print -1 if not found.
 # ---------------------------------------------------------
+
+def check_line(word):
