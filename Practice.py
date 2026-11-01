@@ -101,3 +101,5 @@ nums = data.split(",")              # list of strings
 for num in nums:
       if int(num) % 2 == 0:
         count += 1
+
+print("Q5: Even numbers:", count)
