@@ -93,3 +93,6 @@ print("Q4:", check_line("hello"))
 # ---------------------------------------------------------
 
 count = 0
+
+with open("data/numbers.txt", "r") as f:
+    data = f.read()
