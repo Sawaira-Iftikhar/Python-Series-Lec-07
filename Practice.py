@@ -61,3 +61,6 @@ with open("practice.txt", "r") as f:
 
 if word in data:
     print("Q3: Found")
+
+else:
+    print("Q3: Not found")
