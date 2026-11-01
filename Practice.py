@@ -12,3 +12,11 @@
 Total Questions: 0
 ============================================
 """
+
+# ---------------------------------------------------------
+# Q1. Create a new file "practice.txt" and add the following data:
+#     Hi everyone
+#     we are learning File I/O
+#     using Java.
+#     I like programming in Java.
+# ---------------------------------------------------------
