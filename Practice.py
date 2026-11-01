@@ -133,3 +133,6 @@ print("Q6: Lines:", lines, "| Words:", words, "| Characters:", chars)
 
 with open("data/sample.txt", "r") as f:
     data = f.read()
+
+with open("copy.txt", "w") as f:
+    f.write(data)
