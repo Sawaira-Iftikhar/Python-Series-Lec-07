@@ -79,3 +79,4 @@ def check_line(word):
             if word in line:
                 return line_no
             line_no += 1
+    return -1
