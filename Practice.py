@@ -75,3 +75,5 @@ else:
 def check_line(word):
     line_no = 1
     with open("practice.txt", "r") as f:
+        for line in f:              # reads one line at a time
+            if word in line:
