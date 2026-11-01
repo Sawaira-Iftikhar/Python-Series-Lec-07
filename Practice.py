@@ -130,3 +130,6 @@ print("Q6: Lines:", lines, "| Words:", words, "| Characters:", chars)
 # Q7. Copy the content of data/sample.txt into a new file
 #     copy.txt, then print the new file.
 # ---------------------------------------------------------
+
+with open("data/sample.txt", "r") as f:
+    data = f.read()
