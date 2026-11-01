@@ -115,3 +115,5 @@ print("Q5: Even numbers:", count)
 lines = 0
 words = 0
 chars = 0
+
+with open("data/sample.txt", "r") as f:
