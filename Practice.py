@@ -161,3 +161,7 @@ average = round(total / len(nums), 2)
 with open("result.txt", "w") as f:
     f.write("Sum: " + str(total) + "\n")
     f.write("Average: " + str(average))
+
+with open("result.txt", "r") as f:
+    print("Q8: result.txt contains:")
+    print(f.read())
