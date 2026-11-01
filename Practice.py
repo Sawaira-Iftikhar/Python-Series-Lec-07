@@ -74,3 +74,4 @@ else:
 
 def check_line(word):
     line_no = 1
+    with open("practice.txt", "r") as f:
