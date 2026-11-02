@@ -15,3 +15,5 @@ def add_entry():
 
     with open(DIARY_FILE, "a") as f:        # 'a' keeps old entries
         f.write(date + " | " + text + "\n")
+
+    print("Entry saved.")
