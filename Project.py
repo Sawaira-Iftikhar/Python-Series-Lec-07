@@ -7,7 +7,8 @@
 
 
 import os
-DIARY_FILE = "mini_project/diary.txt"
+
+DIARY_FILE = "diary.txt"
 
 def add_entry():
     date = input("Date (e.g. 22-11-2026): ")
