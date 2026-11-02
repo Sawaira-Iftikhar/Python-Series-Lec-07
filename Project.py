@@ -12,3 +12,6 @@ DIARY_FILE = "mini_project/diary.txt"
 def add_entry():
     date = input("Date (e.g. 22-11-2026): ")
     text = input("Write your entry: ")
+
+    with open(DIARY_FILE, "a") as f:        # 'a' keeps old entries
+        f.write(date + " | " + text + "\n")
