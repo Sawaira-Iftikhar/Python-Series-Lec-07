@@ -45,3 +45,6 @@ def search_word():
 
     with open(DIARY_FILE, "r") as f:
         data = f.read()
+
+    if word in data:
+        print("Found:", word)
