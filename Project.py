@@ -21,3 +21,4 @@ def add_entry():
 
 
 def view_entries():
+    if not os.path.exists(DIARY_FILE):
