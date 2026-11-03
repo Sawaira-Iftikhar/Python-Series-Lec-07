@@ -111,3 +111,5 @@ def menu():
          print("5. Count entries")
          print("6. Delete diary")
          print("7. Exit")
+
+         choice = input("Choose (1-7): ")
