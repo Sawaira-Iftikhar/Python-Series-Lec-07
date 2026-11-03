@@ -27,3 +27,6 @@ def view_entries():
 
     with open(DIARY_FILE, "r") as f:
         data = f.read()
+
+    if data == "":
+        print("Diary is empty.")
