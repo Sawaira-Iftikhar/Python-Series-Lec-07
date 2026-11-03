@@ -89,3 +89,6 @@ def count_entries():
 
 
 def delete_diary():
+    if not os.path.exists(DIARY_FILE):
+        print("No diary file to delete.")
+        return
