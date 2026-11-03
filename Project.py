@@ -124,3 +124,5 @@ def menu():
             find_line()
          elif choice == "5":
             count_entries()
+         elif choice == "6":
+            delete_diary()
