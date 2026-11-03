@@ -78,3 +78,4 @@ def count_entries():
         return
 
     count = 0
+    with open(DIARY_FILE, "r") as f:
