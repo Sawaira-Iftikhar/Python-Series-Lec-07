@@ -62,3 +62,4 @@ def find_line():
     found = False
 
     with open(DIARY_FILE, "r") as f:
+        for line in f:
