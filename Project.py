@@ -92,3 +92,5 @@ def delete_diary():
     if not os.path.exists(DIARY_FILE):
         print("No diary file to delete.")
         return
+
+    confirm = input("Delete the whole diary? (yes/no): ")
