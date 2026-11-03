@@ -53,3 +53,6 @@ def search_word():
         print("Not found:", word)
 
 def find_line():
+    if not os.path.exists(DIARY_FILE):
+        print("Diary is empty. Add an entry first.")
+        return
