@@ -131,3 +131,5 @@ def menu():
             break
          else:
             print("Invalid choice, try again.")
+
+menu()    # THIS LINE STARTS THE PROGRAM - do not remove it
