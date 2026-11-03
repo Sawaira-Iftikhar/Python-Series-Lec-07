@@ -40,3 +40,5 @@ def search_word():
     if not os.path.exists(DIARY_FILE):
         print("Diary is empty. Add an entry first.")
         return
+
+    word = input("Word to search: ")
