@@ -104,3 +104,4 @@ def delete_diary():
 def menu():
     while True:
          print("\n===== Personal Diary =====")
+         print("1. Add entry")
