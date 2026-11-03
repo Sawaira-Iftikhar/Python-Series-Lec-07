@@ -10,6 +10,7 @@ import os
 
 DIARY_FILE = "Diary.txt"
 
+
 def add_entry():
     date = input("Date (e.g. 22-11-2026): ")
     text = input("Write your entry: ")
@@ -36,6 +37,7 @@ def view_entries():
         print(data, end="")
         print("--------------------")
 
+
 def search_word():
     if not os.path.exists(DIARY_FILE):
         print("Diary is empty. Add an entry first.")
@@ -51,6 +53,7 @@ def search_word():
 
     else:
         print("Not found:", word)
+
 
 def find_line():
     if not os.path.exists(DIARY_FILE):
@@ -83,3 +86,6 @@ def count_entries():
             count += 1
 
     print("Total entries:", count)
+
+
+def delete_diary():
