@@ -110,3 +110,4 @@ def menu():
          print("4. Find lines with a word")
          print("5. Count entries")
          print("6. Delete diary")
+         print("7. Exit")
