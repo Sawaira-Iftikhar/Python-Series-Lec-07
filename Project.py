@@ -73,3 +73,6 @@ def find_line():
 
 
 def count_entries():
+    if not os.path.exists(DIARY_FILE):
+        print("Total entries: 0")
+        return
