@@ -100,3 +100,5 @@ def delete_diary():
 
     else:
         print("Cancelled.")
+
+def menu():
