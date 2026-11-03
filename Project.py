@@ -120,3 +120,5 @@ def menu():
             view_entries()
          elif choice == "3":
             search_word()
+         elif choice == "4":
+            find_line()
