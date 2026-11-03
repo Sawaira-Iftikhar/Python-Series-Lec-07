@@ -113,3 +113,6 @@ def menu():
          print("7. Exit")
 
          choice = input("Choose (1-7): ")
+
+         if choice == "1":
+            add_entry()
