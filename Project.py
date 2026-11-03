@@ -81,3 +81,5 @@ def count_entries():
     with open(DIARY_FILE, "r") as f:
         for line in f:
             count += 1
+
+    print("Total entries:", count)
