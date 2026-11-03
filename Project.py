@@ -60,3 +60,5 @@ def find_line():
     word = input("Word to find: ")
     line_no = 1
     found = False
+
+    with open(DIARY_FILE, "r") as f:
