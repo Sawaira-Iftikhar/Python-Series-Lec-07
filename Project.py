@@ -97,3 +97,6 @@ def delete_diary():
     if confirm == "yes":
         os.remove(DIARY_FILE)
         print("Diary deleted.")
+
+    else:
+        print("Cancelled.")
