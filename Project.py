@@ -105,3 +105,4 @@ def menu():
     while True:
          print("\n===== Personal Diary =====")
          print("1. Add entry")
+         print("2. View all entries")
