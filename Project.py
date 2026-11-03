@@ -63,3 +63,4 @@ def find_line():
 
     with open(DIARY_FILE, "r") as f:
         for line in f:
+            if word in line:
