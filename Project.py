@@ -70,3 +70,6 @@ def find_line():
 
     if not found:
         print(-1)
+
+
+def count_entries():
