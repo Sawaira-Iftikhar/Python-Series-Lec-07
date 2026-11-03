@@ -35,3 +35,5 @@ def view_entries():
         print("\n----- My Diary -----")
         print(data, end="")
         print("--------------------")
+
+def search_word():
