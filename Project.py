@@ -126,3 +126,5 @@ def menu():
             count_entries()
          elif choice == "6":
             delete_diary()
+         elif choice == "7":
+            print("Goodbye!")
