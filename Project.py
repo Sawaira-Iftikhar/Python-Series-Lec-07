@@ -122,3 +122,5 @@ def menu():
             search_word()
          elif choice == "4":
             find_line()
+         elif choice == "5":
+            count_entries()
