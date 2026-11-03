@@ -22,3 +22,5 @@ def add_entry():
 
 def view_entries():
     if not os.path.exists(DIARY_FILE):
+        print("Diary is empty. Add an entry first.")
+        return
