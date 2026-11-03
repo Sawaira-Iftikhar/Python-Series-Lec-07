@@ -42,3 +42,6 @@ def search_word():
         return
 
     word = input("Word to search: ")
+
+    with open(DIARY_FILE, "r") as f:
+        data = f.read()
