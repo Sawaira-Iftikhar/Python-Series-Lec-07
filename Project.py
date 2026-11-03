@@ -48,3 +48,6 @@ def search_word():
 
     if word in data:
         print("Found:", word)
+
+    else:
+        print("Not found:", word)
