@@ -30,3 +30,8 @@ def view_entries():
 
     if data == "":
         print("Diary is empty.")
+
+    else:
+        print("\n----- My Diary -----")
+        print(data, end="")
+        print("--------------------")
