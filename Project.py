@@ -8,7 +8,7 @@
 
 import os
 
-DIARY_FILE = "diary.txt"
+DIARY_FILE = "Diary.txt"
 
 def add_entry():
     date = input("Date (e.g. 22-11-2026): ")
@@ -18,3 +18,6 @@ def add_entry():
         f.write(date + " | " + text + "\n")
 
     print("Entry saved.")
+
+
+def view_entries():
