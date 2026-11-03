@@ -51,3 +51,5 @@ def search_word():
 
     else:
         print("Not found:", word)
+
+def find_line():
