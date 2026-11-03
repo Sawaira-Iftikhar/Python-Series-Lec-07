@@ -118,3 +118,5 @@ def menu():
             add_entry()
          elif choice == "2":
             view_entries()
+         elif choice == "3":
+            search_word()
