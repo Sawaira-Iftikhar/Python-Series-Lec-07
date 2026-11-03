@@ -102,3 +102,4 @@ def delete_diary():
         print("Cancelled.")
 
 def menu():
+    while True:
