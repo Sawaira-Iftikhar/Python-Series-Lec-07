@@ -107,3 +107,4 @@ def menu():
          print("1. Add entry")
          print("2. View all entries")
          print("3. Search a word")
+         print("4. Find lines with a word")
