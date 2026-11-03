@@ -95,3 +95,5 @@ def delete_diary():
 
     confirm = input("Delete the whole diary? (yes/no): ")
     if confirm == "yes":
+        os.remove(DIARY_FILE)
+        print("Diary deleted.")
