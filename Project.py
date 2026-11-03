@@ -58,3 +58,5 @@ def find_line():
         return
 
     word = input("Word to find: ")
+    line_no = 1
+    found = False
