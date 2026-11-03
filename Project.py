@@ -108,3 +108,4 @@ def menu():
          print("2. View all entries")
          print("3. Search a word")
          print("4. Find lines with a word")
+         print("5. Count entries")
