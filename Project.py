@@ -94,3 +94,4 @@ def delete_diary():
         return
 
     confirm = input("Delete the whole diary? (yes/no): ")
+    if confirm == "yes":
