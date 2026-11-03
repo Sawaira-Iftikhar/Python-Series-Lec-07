@@ -67,3 +67,6 @@ def find_line():
                  print("Line", line_no, "->", line, end="")
                  found = True
             line_no += 1
+
+    if not found:
+        print(-1)
