@@ -106,3 +106,4 @@ def menu():
          print("\n===== Personal Diary =====")
          print("1. Add entry")
          print("2. View all entries")
+         print("3. Search a word")
