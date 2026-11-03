@@ -128,3 +128,4 @@ def menu():
             delete_diary()
          elif choice == "7":
             print("Goodbye!")
+            break
