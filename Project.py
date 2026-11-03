@@ -116,3 +116,5 @@ def menu():
 
          if choice == "1":
             add_entry()
+         elif choice == "2":
+            view_entries()
