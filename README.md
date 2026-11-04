@@ -81,3 +81,5 @@ Modes can be combined:
 |---|---|
 | `'rb'` | Read a binary file |
 | `'r+'` | Read and write |
+
+---
