@@ -100,3 +100,10 @@ using Python.
 | `f.readline()` | Reads **one line** at a time |
 
 ### Read the whole file
+
+```python
+f = open("sample.txt", "r")
+data = f.read()
+print(data)
+f.close()
+```
