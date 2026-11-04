@@ -74,3 +74,5 @@ f.close()
 | `'b'` | Binary mode |
 | `'t'` | Text mode (default) |
 | `'+'` | Open for updating (reading **and** writing) |
+
+Modes can be combined:
