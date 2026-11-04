@@ -173,3 +173,6 @@ this line is added
 ---
 
 ## 6. The `with` Syntax
+
+With `with`, Python **closes the file automatically** when the block ends, so `f.close()` is not needed.
+
