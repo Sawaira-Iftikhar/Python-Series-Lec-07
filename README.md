@@ -64,3 +64,6 @@ f.close()
 ---
 
 ## 3. File Modes
+
+| Mode | Meaning |
+|---|---|
