@@ -224,3 +224,5 @@ os.remove("demo.txt")
 | `replace("Java", "Python")` | Only replaces `Java` with a capital J, not `java` | `replace()` is case-sensitive, so replace each spelling you need |
 
 ---
+
+## 9. Practice Questions
