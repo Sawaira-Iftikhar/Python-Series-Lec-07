@@ -93,3 +93,6 @@ Hi everyone
 we are learning File I/O
 using Python.
 ```
+
+| Function | What it does |
+|---|---|
