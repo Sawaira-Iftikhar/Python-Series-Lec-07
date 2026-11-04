@@ -141,3 +141,9 @@ we are learning File I/O
 ## 5. Writing to a File
 
 ### `'w'` mode — overwrites the entire file
+
+```python
+f = open("demo.txt", "w")
+f.write("this is a new line")
+f.close()
+```
