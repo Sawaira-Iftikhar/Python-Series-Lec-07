@@ -139,3 +139,5 @@ we are learning File I/O
 ---
 
 ## 5. Writing to a File
+
+### `'w'` mode — overwrites the entire file
