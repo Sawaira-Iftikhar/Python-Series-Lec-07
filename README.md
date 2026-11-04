@@ -194,3 +194,7 @@ this line is added
 with open("demo.txt", "w") as f:
     f.write("new data")
 ```
+
+> **Note:** To read a file, open it in `'r'` mode. Reading a file opened in `'w'` or `'a'` mode gives an error.
+
+---
