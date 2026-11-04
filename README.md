@@ -60,3 +60,5 @@ f = open("file_name", "mode")
 data = f.read()
 f.close()
 ```
+
+---
