@@ -23,3 +23,5 @@ Python can **read** data from a file and **write** data to it.
 | [Project.py](Project.py) | Mini Project: Personal Diary (`a` mode, Read, Search, Count, `os.remove()`) | 06 |
 | [data/numbers.txt](data/numbers.txt) | Sample numbers used in Q5 & Q8 | — |
 | [data/sample.txt](data/sample.txt) | Sample text used in Q6 & Q7 | — |
+
+## Contents
