@@ -200,3 +200,6 @@ with open("demo.txt", "w") as f:
 ---
 
 ## 7. Deleting a File
+
+Files are deleted with the `os` module. A **module** is a file (like a code library) written by another programmer that contains functions we can use.
+
