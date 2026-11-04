@@ -225,4 +225,3 @@ os.remove("demo.txt")
 
 ---
 
-## 9. Practice Questions
