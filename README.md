@@ -19,3 +19,7 @@ Python can **read** data from a file and **write** data to it.
 
 | File | Topics | Questions |
 |---|---|:-:|
+| [Practice.py](Practice.py) | Create, Write, Find & Replace, Search, Line Number, `split()`, Copy File, Sum & Average | 08 |
+| [Project.py](Project.py) | Mini Project: Personal Diary (`a` mode, Read, Search, Count, `os.remove()`) | 06 |
+| [data/numbers.txt](data/numbers.txt) | Sample numbers used in Q5 & Q8 | — |
+| [data/sample.txt](data/sample.txt) | Sample text used in Q6 & Q7 | — |
