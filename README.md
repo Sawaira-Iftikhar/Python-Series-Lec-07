@@ -198,3 +198,5 @@ with open("demo.txt", "w") as f:
 > **Note:** To read a file, open it in `'r'` mode. Reading a file opened in `'w'` or `'a'` mode gives an error.
 
 ---
+
+## 7. Deleting a File
