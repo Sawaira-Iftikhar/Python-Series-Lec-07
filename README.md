@@ -133,3 +133,7 @@ Output:
 Hi everyone
 we are learning File I/O
 ```
+
+> Each line read from a file ends with `\n` (new line), so we use `end=""` to avoid blank lines.
+
+---
