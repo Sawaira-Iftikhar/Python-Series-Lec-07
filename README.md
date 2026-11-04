@@ -157,3 +157,9 @@ f.close()
 ```
 
 ### Check the result
+
+```python
+f = open("demo.txt", "r")
+print(f.read())
+f.close()
+```
