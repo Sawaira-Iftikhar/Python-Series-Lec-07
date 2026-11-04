@@ -189,3 +189,8 @@ Output:
 this is a new line
 this line is added
 ```
+
+```python
+with open("demo.txt", "w") as f:
+    f.write("new data")
+```
