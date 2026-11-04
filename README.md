@@ -83,3 +83,5 @@ Modes can be combined:
 | `'r+'` | Read and write |
 
 ---
+
+## 4. Reading a File
