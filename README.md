@@ -41,3 +41,6 @@ Python can **read** data from a file and **write** data to it.
 ---
 
 ## 1. Types of Files
+
+| Type | What it stores | Examples |
+|---|---|---|
