@@ -115,3 +115,5 @@ Hi everyone
 we are learning File I/O
 using Python.
 ```
+
+### Read line by line
