@@ -176,3 +176,9 @@ this line is added
 
 With `with`, Python **closes the file automatically** when the block ends, so `f.close()` is not needed.
 
+```python
+with open("demo.txt", "r") as f:
+    data = f.read()
+
+print(data)
+````
