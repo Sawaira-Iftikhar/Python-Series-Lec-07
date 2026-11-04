@@ -37,3 +37,7 @@ Python can **read** data from a file and **write** data to it.
 9. [Practice Questions](#9-practice-questions)
 10. [Mini Project](#10-mini-project)
 11. [How to Run](#11-how-to-run)
+
+---
+
+## 1. Types of Files
