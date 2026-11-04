@@ -25,3 +25,15 @@ Python can **read** data from a file and **write** data to it.
 | [data/sample.txt](data/sample.txt) | Sample text used in Q6 & Q7 | — |
 
 ## Contents
+
+1. [Types of Files](#1-types-of-files)
+2. [Open, Read and Close a File](#2-open-read-and-close-a-file)
+3. [File Modes](#3-file-modes)
+4. [Reading a File](#4-reading-a-file)
+5. [Writing to a File](#5-writing-to-a-file)
+6. [The `with` Syntax](#6-the-with-syntax)
+7. [Deleting a File](#7-deleting-a-file)
+8. [Common Mistakes](#8-common-mistakes)
+9. [Practice Questions](#9-practice-questions)
+10. [Mini Project](#10-mini-project)
+11. [How to Run](#11-how-to-run)
