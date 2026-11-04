@@ -149,3 +149,9 @@ f.close()
 ```
 
 ### `'a'` mode — adds to the end of the file
+
+```python
+f = open("demo.txt", "a")
+f.write("\nthis line is added")
+f.close()
+```
