@@ -52,3 +52,6 @@ Python can **read** data from a file and **write** data to it.
 ---
 
 ## 2. Open, Read and Close a File
+
+A file must be **opened** before reading or writing, and **closed** when you are done.
+
