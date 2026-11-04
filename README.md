@@ -209,3 +209,5 @@ import os
 os.remove("demo.txt")
 ```
 ---
+
+## 8. Common Mistakes
