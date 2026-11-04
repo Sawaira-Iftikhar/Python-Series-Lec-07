@@ -211,3 +211,6 @@ os.remove("demo.txt")
 ---
 
 ## 8. Common Mistakes
+
+| Mistake | What happens | Fix |
+|---|---|---|
