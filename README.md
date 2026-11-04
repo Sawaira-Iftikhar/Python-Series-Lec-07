@@ -16,3 +16,6 @@ Python can **read** data from a file and **write** data to it.
 | 7 | Deleting a File (`os` Module, `os.remove()`) | ✅ |
 
 ## 📂 Practice Files
+
+| File | Topics | Questions |
+|---|---|:-:|
