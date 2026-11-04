@@ -126,3 +126,5 @@ print(line1, end="")
 print(line2, end="")
 f.close()
 ```
+
+Output:
