@@ -171,3 +171,5 @@ this is a new line
 this line is added
 ```
 ---
+
+## 6. The `with` Syntax
