@@ -1,5 +1,8 @@
 # Python-Series-Lec-07
 
+Lecture 07 of 9 — Python File I/O: Reading, Writing & Appending Files, File Modes, with Syntax & os Module, plus a Personal Diary Mini Project. 8 hands-on questions.
+
+
 Variables lose their data when a program ends. **Files** store data permanently.
 Python can **read** data from a file and **write** data to it.
 
@@ -243,3 +246,4 @@ If you found this helpful or have any questions:
 ## ⭐ Support
 
 If you find this repository helpful, please consider giving it a Star (⭐)! It helps others discover this learning roadmap.
+
