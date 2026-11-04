@@ -50,3 +50,5 @@ Python can **read** data from a file and **write** data to it.
 > **Note:** A Word file (`.docx`) is stored as a **binary** file, even though it contains text.
 
 ---
+
+## 2. Open, Read and Close a File
