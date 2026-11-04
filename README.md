@@ -14,3 +14,5 @@ Python can **read** data from a file and **write** data to it.
 | 5 | Writing to a File (`w` Overwrite vs `a` Append) | ✅ |
 | 6 | `with` Syntax (Auto-close Files) | ✅ |
 | 7 | Deleting a File (`os` Module, `os.remove()`) | ✅ |
+
+## 📂 Practice Files
