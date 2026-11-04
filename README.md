@@ -55,3 +55,8 @@ Python can **read** data from a file and **write** data to it.
 
 A file must be **opened** before reading or writing, and **closed** when you are done.
 
+```python
+f = open("file_name", "mode")
+data = f.read()
+f.close()
+```
