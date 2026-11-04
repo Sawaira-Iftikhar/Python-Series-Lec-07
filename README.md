@@ -203,3 +203,8 @@ with open("demo.txt", "w") as f:
 
 Files are deleted with the `os` module. A **module** is a file (like a code library) written by another programmer that contains functions we can use.
 
+```python
+import os
+
+os.remove("demo.txt")
+```
