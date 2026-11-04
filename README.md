@@ -44,3 +44,5 @@ Python can **read** data from a file and **write** data to it.
 
 | Type | What it stores | Examples |
 |---|---|---|
+| Text files | Plain, readable text | `.txt`, `.log`, `.csv`, `.py` |
+| Binary files | Data in binary (0s and 1s) form | `.mp4`, `.mov`, `.png`, `.jpeg` |
