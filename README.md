@@ -79,3 +79,5 @@ Modes can be combined:
 
 | Combined mode | Meaning |
 |---|---|
+| `'rb'` | Read a binary file |
+| `'r+'` | Read and write |
