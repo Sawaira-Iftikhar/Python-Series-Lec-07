@@ -155,3 +155,5 @@ f = open("demo.txt", "a")
 f.write("\nthis line is added")
 f.close()
 ```
+
+### Check the result
