@@ -147,3 +147,5 @@ f = open("demo.txt", "w")
 f.write("this is a new line")
 f.close()
 ```
+
+### `'a'` mode — adds to the end of the file
