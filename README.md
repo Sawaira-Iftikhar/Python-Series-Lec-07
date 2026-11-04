@@ -34,9 +34,6 @@ Python can **read** data from a file and **write** data to it.
 6. [The `with` Syntax](#6-the-with-syntax)
 7. [Deleting a File](#7-deleting-a-file)
 8. [Common Mistakes](#8-common-mistakes)
-9. [Practice Questions](#9-practice-questions)
-10. [Mini Project](#10-mini-project)
-11. [How to Run](#11-how-to-run)
 
 ---
 
