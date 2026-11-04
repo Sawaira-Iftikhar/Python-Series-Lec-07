@@ -128,3 +128,8 @@ f.close()
 ```
 
 Output:
+
+```
+Hi everyone
+we are learning File I/O
+```
