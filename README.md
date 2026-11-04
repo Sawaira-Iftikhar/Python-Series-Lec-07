@@ -223,3 +223,4 @@ os.remove("demo.txt")
 | Deleting a file that doesn't exist | `FileNotFoundError` | Check with `os.path.exists()` first |
 | `replace("Java", "Python")` | Only replaces `Java` with a capital J, not `java` | `replace()` is case-sensitive, so replace each spelling you need |
 
+---
