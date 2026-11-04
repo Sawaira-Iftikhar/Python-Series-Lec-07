@@ -87,3 +87,9 @@ Modes can be combined:
 ## 4. Reading a File
 
 Suppose `sample.txt` contains:
+
+```
+Hi everyone
+we are learning File I/O
+using Python.
+```
