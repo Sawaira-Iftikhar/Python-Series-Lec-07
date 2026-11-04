@@ -7,3 +7,6 @@ Python can **read** data from a file and **write** data to it.
 
 | # | Topic | Status |
 |:-:|---|:-:|
+| 1 | Types of Files (Text & Binary) | ✅ |
+| 2 | Open, Read & Close a File (`open()`, `close()`) | ✅ |
+| 3 | File Modes (`r`, `w`, `x`, `a`, `b`, `t`, `+`) | ✅ |
