@@ -85,3 +85,5 @@ Modes can be combined:
 ---
 
 ## 4. Reading a File
+
+Suppose `sample.txt` contains:
