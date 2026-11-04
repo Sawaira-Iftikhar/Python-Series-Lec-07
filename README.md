@@ -214,3 +214,12 @@ os.remove("demo.txt")
 
 | Mistake | What happens | Fix |
 |---|---|---|
+| Opening a file with data in `'w'` mode | All old data is **erased** without warning | Use `'a'` to add data |
+| Reading a file opened in `'w'` or `'a'` mode | `io.UnsupportedOperation: not readable` | Open it in `'r'` mode |
+| Opening a missing file in `'r'` mode | `FileNotFoundError` | Check first with `os.path.exists("file.txt")` |
+| Using `'x'` on a file that already exists | `FileExistsError` | Use `'x'` only for brand-new files |
+| Printing lines without `end=""` | Extra blank lines in the output | `print(line, end="")` |
+| Forgetting `f.close()` | Data may not be saved | Use `with open(...)` |
+| Deleting a file that doesn't exist | `FileNotFoundError` | Check with `os.path.exists()` first |
+| `replace("Java", "Python")` | Only replaces `Java` with a capital J, not `java` | `replace()` is case-sensitive, so replace each spelling you need |
+
