@@ -96,3 +96,5 @@ using Python.
 
 | Function | What it does |
 |---|---|
+| `f.read()` | Reads the **entire file** as one string |
+| `f.readline()` | Reads **one line** at a time |
