@@ -62,3 +62,5 @@ f.close()
 ```
 
 ---
+
+## 3. File Modes
