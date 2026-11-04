@@ -76,3 +76,6 @@ f.close()
 | `'+'` | Open for updating (reading **and** writing) |
 
 Modes can be combined:
+
+| Combined mode | Meaning |
+|---|---|
