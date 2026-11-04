@@ -224,3 +224,13 @@ os.remove("demo.txt")
 
 ## 🗓️ Series Progress
 
+- [x] **Lecture 01** — Basics, Data Types & Operators ✅
+- [x] **Lecture 02** — Strings, Slicing & Conditionals ✅
+- [x] **Lecture 03** — Lists, Tuples & Methods ✅
+- [x] **Lecture 04** — Dictionaries & Sets ✅
+- [x] **Lecture 05** — Loops, Lists & Tuples in Loops ✅
+- [x] **Lecture 06** — Functions, Default Params & Recursion ✅
+- [x] **Lecture 07** — File I/O (Read, Write, Append, `with` & `os`) 📍 *(Current)*
+- [ ] **Lecture 08** — Coming Soon
+- [ ] **Lecture 09** — Coming Soon
+
