@@ -67,3 +67,10 @@ f.close()
 
 | Mode | Meaning |
 |---|---|
+`'r'` | Open for reading (default) |
+| `'w'` | Open for writing — **erases the file first** (creates it if missing) |
+| `'x'` | Create a new file and open it for writing (error if it already exists) |
+| `'a'` | Open for writing — **adds to the end** of the file (creates it if missing) |
+| `'b'` | Binary mode |
+| `'t'` | Text mode (default) |
+| `'+'` | Open for updating (reading **and** writing) |
