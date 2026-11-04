@@ -184,3 +184,8 @@ print(data)
 ````
 
 Output:
+
+```
+this is a new line
+this line is added
+```
